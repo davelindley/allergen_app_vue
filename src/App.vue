@@ -7,27 +7,26 @@
         <span class="font-weight-light">ALLERGEN & DIETARY INFORMATION</span>
       </v-toolbar-title>
       <v-spacer></v-spacer>
-
     </v-toolbar>
 
     <v-content>
-      <AllergenTable/>
+      <AllergenTable />
     </v-content>
   </v-app>
 </template>
 
 <script>
-import AllergenTable from './components/AllergenTable'
+import AllergenTable from "./components/AllergenTable";
 
 export default {
-  name: 'App',
+  name: "App",
   components: {
     AllergenTable
   },
-  data () {
+  data() {
     return {
       //
-    }
+    };
   }
-}
+};
 </script>
