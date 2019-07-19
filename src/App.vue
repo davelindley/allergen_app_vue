@@ -2,7 +2,7 @@
   <v-app>
     <v-toolbar app>
       <v-toolbar-title class="headline text-uppercase">
-        <span>Tropicana Field</span>
+        <span>TEST Field</span>
         <v-spacer></v-spacer>
         <span class="font-weight-light">ALLERGEN & DIETARY INFORMATION</span>
       </v-toolbar-title>

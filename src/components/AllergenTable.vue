@@ -170,7 +170,7 @@ export default {
           Milk: false,
           Peanut: false,
           Shellfish: false,
-          Treenut: false,
+          TreeNut: false,
           Wheat: true
         },
         {
@@ -184,7 +184,7 @@ export default {
           Milk: false,
           Peanut: false,
           Shellfish: false,
-          Treenut: false,
+          TreeNut: false,
           Wheat: true
         },
         {
@@ -198,7 +198,7 @@ export default {
           Milk: true,
           Peanut: false,
           Shellfish: false,
-          Treenut: false,
+          TreeNut: false,
           Wheat: true
         },
         {
@@ -212,7 +212,7 @@ export default {
           Milk: false,
           Peanut: true,
           Shellfish: false,
-          Treenut: false,
+          TreeNut: false,
           Wheat: false
         },
         {
@@ -226,7 +226,7 @@ export default {
           Milk: false,
           Peanut: false,
           Shellfish: false,
-          Treenut: false,
+          TreeNut: false,
           Wheat: true
         },
         {
@@ -240,7 +240,7 @@ export default {
           Milk: false,
           Peanut: false,
           Shellfish: false,
-          Treenut: false,
+          TreeNut: false,
           Wheat: true
         },
         {
@@ -254,7 +254,7 @@ export default {
           Milk: false,
           Peanut: false,
           Shellfish: false,
-          Treenut: false,
+          TreeNut: false,
           Wheat: true
         },
         {
@@ -268,7 +268,7 @@ export default {
           Milk: true,
           Peanut: false,
           Shellfish: false,
-          Treenut: false,
+          TreeNut: false,
           Wheat: true
         },
         {
@@ -282,7 +282,7 @@ export default {
           Milk: false,
           Peanut: false,
           Shellfish: false,
-          Treenut: false,
+          TreeNut: false,
           Wheat: true
         },
         {
@@ -296,7 +296,7 @@ export default {
           Milk: true,
           Peanut: false,
           Shellfish: false,
-          Treenut: false,
+          TreeNut: false,
           Wheat: false
         },
         {
@@ -310,7 +310,7 @@ export default {
           Milk: true,
           Peanut: false,
           Shellfish: false,
-          Treenut: false,
+          TreeNut: false,
           Wheat: false
         },
         {
@@ -324,7 +324,7 @@ export default {
           Milk: true,
           Peanut: false,
           Shellfish: false,
-          Treenut: false,
+          TreeNut: false,
           Wheat: false
         },
         {
@@ -338,7 +338,7 @@ export default {
           Milk: false,
           Peanut: false,
           Shellfish: false,
-          Treenut: false,
+          TreeNut: false,
           Wheat: true
         },
         {
@@ -352,7 +352,7 @@ export default {
           Milk: true,
           Peanut: false,
           Shellfish: false,
-          Treenut: false,
+          TreeNut: false,
           Wheat: true
         },
         {
@@ -366,7 +366,7 @@ export default {
           Milk: true,
           Peanut: false,
           Shellfish: false,
-          Treenut: false,
+          TreeNut: false,
           Wheat: false
         },
         {
@@ -380,7 +380,7 @@ export default {
           Milk: true,
           Peanut: false,
           Shellfish: false,
-          Treenut: false,
+          TreeNut: false,
           Wheat: true
         },
         {
@@ -394,7 +394,7 @@ export default {
           Milk: true,
           Peanut: false,
           Shellfish: false,
-          Treenut: false,
+          TreeNut: false,
           Wheat: false
         },
         {
@@ -408,7 +408,7 @@ export default {
           Milk: false,
           Peanut: false,
           Shellfish: false,
-          Treenut: false,
+          TreeNut: false,
           Wheat: true
         },
         {
@@ -422,7 +422,7 @@ export default {
           Milk: false,
           Peanut: false,
           Shellfish: false,
-          Treenut: false,
+          TreeNut: false,
           Wheat: true
         },
         {
@@ -436,7 +436,7 @@ export default {
           Milk: true,
           Peanut: false,
           Shellfish: false,
-          Treenut: false,
+          TreeNut: false,
           Wheat: false
         },
         {
@@ -450,7 +450,7 @@ export default {
           Milk: false,
           Peanut: false,
           Shellfish: false,
-          Treenut: false,
+          TreeNut: false,
           Wheat: false
         },
         {
@@ -464,7 +464,7 @@ export default {
           Milk: false,
           Peanut: false,
           Shellfish: false,
-          Treenut: false,
+          TreeNut: false,
           Wheat: true
         },
         {
@@ -478,7 +478,7 @@ export default {
           Milk: false,
           Peanut: false,
           Shellfish: false,
-          Treenut: false,
+          TreeNut: false,
           Wheat: true
         },
         {
@@ -492,7 +492,7 @@ export default {
           Milk: true,
           Peanut: false,
           Shellfish: false,
-          Treenut: false,
+          TreeNut: false,
           Wheat: false
         },
         {
@@ -506,7 +506,7 @@ export default {
           Milk: true,
           Peanut: false,
           Shellfish: false,
-          Treenut: false,
+          TreeNut: false,
           Wheat: false
         },
         {
@@ -520,7 +520,7 @@ export default {
           Milk: true,
           Peanut: false,
           Shellfish: false,
-          Treenut: false,
+          TreeNut: false,
           Wheat: false
         },
         {
@@ -534,7 +534,7 @@ export default {
           Milk: false,
           Peanut: false,
           Shellfish: false,
-          Treenut: false,
+          TreeNut: false,
           Wheat: false
         },
         {
@@ -548,7 +548,7 @@ export default {
           Milk: true,
           Peanut: false,
           Shellfish: false,
-          Treenut: false,
+          TreeNut: false,
           Wheat: true
         },
         {
@@ -562,7 +562,7 @@ export default {
           Milk: true,
           Peanut: false,
           Shellfish: false,
-          Treenut: false,
+          TreeNut: false,
           Wheat: true
         },
         {
@@ -576,7 +576,7 @@ export default {
           Milk: true,
           Peanut: false,
           Shellfish: false,
-          Treenut: false,
+          TreeNut: false,
           Wheat: true
         }
       ]
